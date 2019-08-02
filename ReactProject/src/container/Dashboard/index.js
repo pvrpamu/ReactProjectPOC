@@ -58,6 +58,7 @@ class DashBoard extends Component {
             </Col>
           ))}
         </Row>
+        <input type="text"></input>
       </div>
     );
   }
